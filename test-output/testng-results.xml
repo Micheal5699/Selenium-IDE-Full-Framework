@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-15T17:02:34 WAT" name="Suite" finished-at="2024-02-15T17:09:11 WAT" duration-ms="396942">
+    <groups>
+    </groups>
+    <test started-at="2024-02-15T17:02:34 WAT" name="Test" finished-at="2024-02-15T17:09:11 WAT" duration-ms="396942">
+      <class name="testcase.KongaCart">
+        <test-method is-config="true" signature="seUp()[pri:0, instance:testcase.KongaCart@2ddc9a9f]" started-at="2024-02-15T17:02:34 WAT" name="seUp" finished-at="2024-02-15T17:02:53 WAT" duration-ms="18480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.KongaCart@2ddc9a9f]" started-at="2024-02-15T17:02:53 WAT" name="LoginTest" data-provider="testdata" finished-at="2024-02-15T17:03:38 WAT" duration-ms="45828" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[08096886371]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Micheal@me1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.KongaCart@2ddc9a9f]" started-at="2024-02-15T17:03:38 WAT" name="tearDown" finished-at="2024-02-15T17:03:42 WAT" duration-ms="3576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.KongaCart -->
+      <class name="testcase.KongaLogin">
+        <test-method is-config="true" signature="seUp()[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:03:42 WAT" name="seUp" finished-at="2024-02-15T17:04:01 WAT" duration-ms="18873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:04:01 WAT" name="LoginTest" data-provider="testdata" finished-at="2024-02-15T17:04:30 WAT" duration-ms="28627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[00842230]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6262]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:04:30 WAT" name="tearDown" finished-at="2024-02-15T17:05:01 WAT" duration-ms="31550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="seUp()[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:05:01 WAT" name="seUp" finished-at="2024-02-15T17:05:28 WAT" duration-ms="27112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:05:28 WAT" name="LoginTest" data-provider="testdata" finished-at="2024-02-15T17:06:00 WAT" duration-ms="31442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[08130842234230]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[62622]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:06:00 WAT" name="tearDown" finished-at="2024-02-15T17:06:03 WAT" duration-ms="3459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="seUp()[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:06:03 WAT" name="seUp" finished-at="2024-02-15T17:06:27 WAT" duration-ms="23571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:06:27 WAT" name="LoginTest" data-provider="testdata" finished-at="2024-02-15T17:06:55 WAT" duration-ms="27894" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[081308422307484]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[626262]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:06:55 WAT" name="tearDown" finished-at="2024-02-15T17:06:59 WAT" duration-ms="4244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="seUp()[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:06:59 WAT" name="seUp" finished-at="2024-02-15T17:07:18 WAT" duration-ms="19158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:07:18 WAT" name="LoginTest" data-provider="testdata" finished-at="2024-02-15T17:07:45 WAT" duration-ms="27314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[08096886371]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Micheal@me1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.KongaLogin@742ff096]" started-at="2024-02-15T17:07:45 WAT" name="tearDown" finished-at="2024-02-15T17:07:51 WAT" duration-ms="5881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.KongaLogin -->
+      <class name="testcase.KongaSignUp">
+        <test-method is-config="true" signature="seUp()[pri:0, instance:testcase.KongaSignUp@75437611]" started-at="2024-02-15T17:07:51 WAT" name="seUp" finished-at="2024-02-15T17:08:10 WAT" duration-ms="18960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seUp -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.KongaSignUp@75437611]" started-at="2024-02-15T17:08:10 WAT" name="LoginTest" data-provider="testdata" finished-at="2024-02-15T17:09:08 WAT" duration-ms="57266" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ibukun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Popoola]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ibkpopoola12@gmail.co]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[08096886371]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Micheal@me1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.KongaSignUp@75437611]" started-at="2024-02-15T17:09:08 WAT" name="tearDown" finished-at="2024-02-15T17:09:11 WAT" duration-ms="3398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.KongaSignUp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
